@@ -1,0 +1,19 @@
+// JavaScript Document
+var expect = require("chai").expext;
+
+var getPrices
+
+function getprice(fruit) {
+const fruits = { 
+	banana: 1,
+	potato: 2,
+	tomato: 3, 
+	cucumber: 4,
+	salad: 5, 
+	apple: 6 
+}
+
+}
+
+
+console.log(getPrices(banane))
